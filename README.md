@@ -12,6 +12,10 @@ Just pipe in whatever you want.
 
     $ curl https://github.com/rauchy.json | apj
 
+or read a file:
+
+    $ apj some_file.json
+
 ## Contributing
 
 1. Fork it
